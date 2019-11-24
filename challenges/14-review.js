@@ -9,6 +9,8 @@ For example, ['apple', 'banana', 'MacGyver'] returns ['Apple', 'Banana', 'MacGyv
 ------------------------------------------------------------------------------------------------ */
 
 export const toTitleCase = (arr) => {
+    console.log(arr);
+    
     // Solution code here...
 };
 
